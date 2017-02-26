@@ -2,7 +2,6 @@ body {
     background-color: #cce8dc;
 }
 
-
 h1 {
     color: #661c02;
     font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
@@ -22,5 +21,8 @@ ul {
     font-family: Helvetica, Sans-Serif;
     text-align: left;
     font-size: ;
+}
 
+id=tablestyling {
+  color: #661c02;
 }
